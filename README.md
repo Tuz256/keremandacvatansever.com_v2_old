@@ -4,12 +4,12 @@ This is my first published personal website. Its fully build with React used Ai 
 
 The site will include these;
 
-* About me
-* Personal projects
-* Contact me
+* About me            (✔️ Done )
+* Personal projects   (✔️ Done )
 
-* Photo gallery
-* Food recipies
+* Contact me          (⏳ In development)
+* Photo gallery       (⏳ In development)
+* Food recipies       (⏳ In development)
 
 
 ## Front-end
